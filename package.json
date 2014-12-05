@@ -1,0 +1,24 @@
+{
+  "name": "FirstNodeSite",
+  "version": "0.0.1",
+  "description": "My first node site",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jason8383/FirstNodeSite.git"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "site"
+  ],
+  "author": "Jason Bogdanski",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/jason8383/FirstNodeSite/issues"
+  },
+  "homepage": "https://github.com/jason8383/FirstNodeSite"
+}
